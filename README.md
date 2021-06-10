@@ -4,11 +4,11 @@ This Report is prepared using PowerBI and here I have squeezed out most of the i
 # Dataset Details:
 This dataset contains details about Customers of FestMan Store. There are 5 tables covering customers and their transactions.
 
- Customer Profiles: Details about the customers
- Website visits: Number of Customer visits to company's web site in the last month and the device used
- Customer Purchases: Details of customers purchase
- Customer spend: Amount spent by customers on various products
- Deal responses: Details of customers acceptance of deals and promotions
+1)  Customer Profiles: Details about the customers
+2)  Website visits: Number of Customer visits to company's web site in the last month and the device used
+3)  Customer Purchases: Details of customers purchase
+4)  Customer spend: Amount spent by customers on various products
+5)  Deal responses: Details of customers acceptance of deals and promotions
 
 
 ## Dashboard
